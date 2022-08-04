@@ -37,9 +37,11 @@ body:
     id: server
     attributes:
       label: Are you on a Server?
+      description: Choose yes or no.
       options:
         - label: Yes.
         - label: No.
+    validations:
       required: true
   - type: textarea
     id: logs
