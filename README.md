@@ -1,5 +1,5 @@
 # Limitless-Refabricated
-Limitless: Refabricated modpack maintained and developed by Gbergz.
+Limitless: Refabricated a Fabric modpack maintained and developed by Gbergz. - Operating on Minecraft 1.18.2!
 
 **CurseForge Page:** https://www.curseforge.com/minecraft/modpacks/tnp-limitless-refabricated
 
