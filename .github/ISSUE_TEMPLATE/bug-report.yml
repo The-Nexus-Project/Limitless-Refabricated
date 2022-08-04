@@ -23,6 +23,8 @@ body:
       label: Pack Version
       description: Put the pack version you are currently on here.
       value: "Version: "
+    validations:
+      required: true
   - type: textarea
     id: repro
     attributes:
