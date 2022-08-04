@@ -33,6 +33,25 @@ body:
       value: "1."
     validations:
       required: true
+name: Bug Report
+description: A report about an issue, crash or similar.
+title: "[Issue]: "
+labels: ["issue"]
+assignees:
+  - Gbergz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A short explanation of what happened.
+      value: "A bug happened!"
+    validations:
+      required: true
   - type: textarea
     id: packversion
     attributes:
