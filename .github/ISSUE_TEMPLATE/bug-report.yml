@@ -74,24 +74,9 @@ body:
       label: Are you on a Server?
       options:
         - label: Yes.
-        required: true
         - label: No.
     validations:
       required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output / crash report.
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-    validations:
-      required: true
-  - type: textarea
-    id: anythingelse
-    attributes:
-      label: Anything else to add?
-      description: Optional.
-
   - type: textarea
     id: logs
     attributes:
