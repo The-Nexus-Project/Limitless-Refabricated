@@ -39,8 +39,8 @@ body:
       label: Are you on a Server?
       options:
         - label: Yes.
-        required: true
         - label: No.
+      required: true
   - type: textarea
     id: logs
     attributes:
