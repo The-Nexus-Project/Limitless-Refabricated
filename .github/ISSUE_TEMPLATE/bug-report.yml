@@ -39,10 +39,10 @@ body:
       label: Are you on a Server?
       description: Choose yes or no.
       options:
-        - label: Yes.
-        - label: No.
     validations:
       required: true
+        - label: Yes.
+        - label: No.
   - type: textarea
     id: logs
     attributes:
