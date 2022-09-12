@@ -1,3 +1,75 @@
+<h1>v1.3.0</h1>
+
+**Tinker's Construct, New Biomes, New Mobs, New Structures, QoL Mods & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Blossom](https://www.curseforge.com/minecraft/mc-mods/blossom)
+- [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
+- [Cinderscapes](https://www.curseforge.com/minecraft/mc-mods/cinderscapes)
+- [Connectible Chains](https://www.curseforge.com/minecraft/mc-mods/connectible-chains)
+- [Fish of Thieves](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)
+- [Hephaestus (Tinker's Construct)](https://www.curseforge.com/minecraft/mc-mods/hephaestus-fabric)
+- [Mage Hand](https://www.curseforge.com/minecraft/mc-mods/mage-hand)
+- [SimpleTransport](https://www.curseforge.com/minecraft/mc-mods/simpletransport-for-fabric)
+- [Sprout](https://www.curseforge.com/minecraft/mc-mods/sprout)
+- [Staff of Traveling](https://www.curseforge.com/minecraft/mc-mods/staff-of-traveling)
+- [Subterrestrial](https://www.curseforge.com/minecraft/mc-mods/subterrestrial)
+- [Things](https://www.curseforge.com/minecraft/mc-mods/things-fabric)
+- [Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse)
+- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench-fabric)
+- [Why Does My Glass Sound Like That](https://www.curseforge.com/minecraft/mc-mods/why-does-my-glass-sound-like-that)
+
+
+**Removed**
+- [Roughly Enough Loot Tables](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-loot-tables) (**Issues with TConstruct**.)
+- [Secret Rooms Mod](https://www.curseforge.com/minecraft/mc-mods/secret-rooms-fabric) (**Removed from CF**.)
+
+
+**Changes**
+- Added **Collapsed REI Entries** for **Potions, Splash Potions, Lingering Potions & Enchanted Books**.
+- Added **Chromium Dust** as a **secondary output** for **Ruby Dust Processing** in the **@MI - Centrifuge**.
+- Added **Ruby & Sapphire Ores** to the **@MI - Quarry**.
+- Adjusted the **Ruby & Lead Tiny Dust** texture.
+- Added **@Visuality** effects to more **mobs**.
+- Changes in mod updates.
+
+
+**Fixes**
+- World **freezing & crashing** due to **watchdog** has been **fixed**.
+- **Fixed** a few **recipes & items** being "**hidden**" in **REI**.
+- Plus fixes in mod updates.
+
+
+**Quests**
+- **Added** a new **Chapter**: **Tinker's Construct**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Fabric Versions**
+- **Loader**: 0.14.9
+- **API**: 0.58.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Refabricated/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.2.0</h1>
 
 **Many new additions, changes, fixes & more!**
