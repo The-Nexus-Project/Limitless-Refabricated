@@ -12,6 +12,7 @@
 - [Connectible Chains](https://www.curseforge.com/minecraft/mc-mods/connectible-chains)
 - [Fish of Thieves](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)
 - [Hephaestus (Tinker's Construct)](https://www.curseforge.com/minecraft/mc-mods/hephaestus-fabric)
+- [Joy of Painting](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)
 - [Mage Hand](https://www.curseforge.com/minecraft/mc-mods/mage-hand)
 - [SimpleTransport](https://www.curseforge.com/minecraft/mc-mods/simpletransport-for-fabric)
 - [Sprout](https://www.curseforge.com/minecraft/mc-mods/sprout)
