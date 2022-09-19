@@ -1,3 +1,53 @@
+<h1>v1.4.0</h1>
+
+**Mod Updates, QoL Changes & Fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Removed**
+- [Untitled Duck Mod](https://www.curseforge.com/minecraft/mc-mods/untitled-duck-mod-fabric) - (**Due to crashes.**)
+
+
+**Changes**
+- Added **support** for all **@Croptopia & @BYG**  among other **Saplings** to **@Botany Pots**.
+- Added **support** for all **@Croptopia - Seeds** among other **Seeds** to **@Botany Pots**.
+- Added ways to process **Quartz Ores** in some **@MI - Machines**.
+- Added missing **Tags** to some **Items/Blocks**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed many items in **@Ad Astra!** being **uncraftable**.
+- Fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Fabric Versions**
+- **Loader**: 0.14.9
+- **API**: 0.58.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Refabricated/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.3.0</h1>
 
 **Tinker's Construct, New Biomes, New Mobs, New Structures, QoL Mods & More!**
