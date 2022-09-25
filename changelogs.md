@@ -49,7 +49,7 @@
 
 **Current Fabric Versions**
 - **Loader**: 0.14.9
-- **API**: 0.58.0
+- **API**: 0.59.0
 
 
 **Reporting Issues**
