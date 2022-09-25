@@ -1,3 +1,70 @@
+<h1>v1.5.0</h1>
+
+**New Structures, New Quests, Vampires? + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advanced Netherite](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric)
+- [Awesome Dungeon: Ocean](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
+- [Crafting Bench](https://www.curseforge.com/minecraft/mc-mods/crafting-bench)
+- [Entity Banners](https://www.curseforge.com/minecraft/mc-mods/entity-banners)
+- [Haema](https://www.curseforge.com/minecraft/mc-mods/haema)
+- [Hopper+](https://www.curseforge.com/minecraft/mc-mods/hopper)
+- [Just Enough Calculation](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation/)
+- [MacOS Input Fixes](https://www.curseforge.com/minecraft/mc-mods/macos-input-fixes)
+- [Mbembe](https://www.curseforge.com/minecraft/mc-mods/mbembe)
+- [Packages](https://www.curseforge.com/minecraft/mc-mods/packages)
+- [Purpeille](https://www.curseforge.com/minecraft/mc-mods/purpeille)
+- [Simply Houses](https://www.curseforge.com/minecraft/mc-mods/simply-houses)
+- [TelePistons](https://www.curseforge.com/minecraft/mc-mods/telepistons)
+- [Unstructured](https://www.curseforge.com/minecraft/mc-mods/unstructured)
+- [Villagers Respawn](https://www.curseforge.com/minecraft/mc-mods/villagers-respawn)
+- [Wild Tool Access](https://www.curseforge.com/minecraft/mc-mods/wta)
+
+
+**Removed**
+- [Dusk](https://www.curseforge.com/minecraft/mc-mods/dusk)
+
+
+**Changes**
+- Added missing **Fir Sapling** to **@Botany Pots**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixes in mod updates.
+
+
+**Quests**
+- Added a new **Chapter**: **Cooking & Farming for Blockheads**.
+- Added a new Chapter: **Hex Casting**. (**By: PhantomEnderium**.)
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Fabric Versions**
+- **Loader**: 0.14.9
+- **API**: 0.58.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Refabricated/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.4.0</h1>
 
 **Mod Updates, QoL Changes & Fixes!**
