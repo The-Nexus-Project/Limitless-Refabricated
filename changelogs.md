@@ -11,7 +11,7 @@
 
 **Fixes**
 - A **significant issue** where the **world seeds** of **different dimensions** could **change** each **world load** has been **fixed**.
-- A **crash** when **scrolling** through **JEI** has been **fixed**.
+- A **crash** when **scrolling** through **REI** has been **fixed**.
 
 
 **Updated**
