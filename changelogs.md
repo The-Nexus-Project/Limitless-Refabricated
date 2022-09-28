@@ -15,7 +15,7 @@
 
 
 **Updated**
-- Updated **1** mod.
+- Updated **3** mods.
 
 
 **Current Fabric Versions**
