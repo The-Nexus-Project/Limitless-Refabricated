@@ -1,3 +1,65 @@
+<h1>v1.6.0</h1>
+
+**The Aether, important fixes, changes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops)
+- [OverpoweredMending](https://www.curseforge.com/minecraft/mc-mods/overpowered-mending)
+- [Paradise Lost](https://www.curseforge.com/minecraft/mc-mods/paradise-lost)
+- [Pick Your Poison](https://www.curseforge.com/minecraft/mc-mods/pick-your-poison)
+
+
+**Removed**
+- [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric) - (**Caused crashes.**)
+
+
+**Changes**
+- **Turned** off **@Eldritch Mobs - Boss Bars** because they could **sometimes** get **stuck**.
+- **@Iron Jetpacks** are now **enchantable**.
+- Changes in mod updates.
+
+
+**Fixes**
+- **Fixed** crashing issues when **equipping** certain **items** in **Trinkets Cosmetic Slots** by **removing** the **mod**.
+- **Fixed** the item **"Drill Tube**" not being **craftable**.
+- **Fixed** being **unable** to craft **IR - Plank**.
+- **Fixed** a few **recipe conflicts**.
+- **Fixes** in **mod updates**.
+
+
+**Quests**
+- **Slime Slings** from **@Tinkers' Construct** will now be accepted in the **@Kibe Chapter**.
+- **Fixed** some **rewards** giving **invalid items** in the **@Scannable Chapter**.
+- Fixed a **reward issue** in the **@Hex Casting Chapter**.
+- **Updated** the **Hex Casting** chapter a bit.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Fabric Versions**
+- **Loader**: 0.14.9
+- **API**: 0.58.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Refabricated/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.5.1</h1>
 
 **Hotfix. Recommended to update!**
