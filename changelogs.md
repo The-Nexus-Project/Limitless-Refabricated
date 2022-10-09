@@ -1,6 +1,6 @@
 <h1>v1.6.0</h1>
 
-**The Aether, important fixes, changes & more!**
+**Some mod additions, important fixes, changes & more!**
 
 **Always remember to backup your world(s) before updating!**
 
