@@ -1,3 +1,38 @@
+<h1>v1.6.1</h1>
+
+**Hotfix!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- Fixed **missing textures** on **@Extended Drawers**.
+- Fixed being unable to open **@AE2Things** blocks.
+- Fixed a few other minor issues.
+
+
+**Updated**
+- Updated **2** mods.
+
+
+**Current Fabric Versions**
+- **Loader**: 0.14.9
+- **API**: 0.58.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Refabricated/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.6.0</h1>
 
 **Some mod additions, important fixes, changes & more!**
