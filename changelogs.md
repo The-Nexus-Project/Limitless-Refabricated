@@ -1,3 +1,58 @@
+<h1>v1.8.0</h1>
+
+**New mods, mod updates, changes & some fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric)
+- [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added all **@Bewitchment, @BYG, @Croptopia & @TwilightForest Seeds + Saplings** to the **@FfB - Market**.
+- Removed the **Official Server** from **server list** since it is now **offline**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed a few **Copper Nugget** recipe **conflicts**.
+- Fixes in **mod updates**.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- Updated **Fabric Loader** from version **0.14.9** to **0.14.18**.
+- Updated **Fabric API** from version **0.59.1** to **0.76.0**.
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Fabric Versions**
+- **Loader**: 0.14.18
+- **API**: 0.76.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-Refabricated/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.7.1</h1>
 
 **Hotfix for missing Extended Drawers textures.. again...**
